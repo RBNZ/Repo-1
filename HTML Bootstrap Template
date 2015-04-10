@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]> <html lang="it" class="ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="it" class="ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="it" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="it">
+<!--<![endif]-->
+  <head>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic" media="screen" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Concessionaria Fiat, Lancia, Alfa Romeo, Fiat Professional, Chevrolet, Piaggio, Abarth">
+    <meta name="author" content="Ruggero Carrara - RBNZ Visual Art">
+    <meta name="language" content="it">
+    <link rel="shortcut icon" href="src/images/favicon.ico">
+    <title>DeniCar S.p.A. Milano - Concessionaria Fiat, Lancia, Alfa Romeo, Fiat Professional, Chevrolet, Piaggio, Abarth</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Stili CSS -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/mobile.css" rel="stylesheet">
+    <link href="css/ts.css" type="text/css" rel="stylesheet">
+    <!-- Google Maps -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key&amp;sensor=false"></script>
+  </head>
+  <body>
+
+  <!--Header Start-->
+    <h1>Prova</h1>
+    <h2>prova bla bla</h2>
+    <h3>prova bla bla</h3>
+  <!--Header End-->
+
+  <!-- SLIDE  -->
+  <!-- SLIDE End  -->
+
+
+
+
+
+
+    <!-- jQuery (necessario per i plugin Javascript di Bootstrap) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Includi tutti i plugin compilati (sotto), o includi solo i file individuali necessari -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
